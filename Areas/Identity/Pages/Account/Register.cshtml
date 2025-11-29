@@ -1,0 +1,121 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = null;
+}
+ 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Registration Page</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg,#e9ecef);
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .reg-container {
+            background: #ffffff;
+            width: 400px;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+
+            .reg-container h2 {
+                margin-bottom: 20px;
+                color: #333;
+            }
+
+        .input-group {
+            margin-bottom: 15px;
+            text-align: left;
+        }
+
+            .input-group label {
+                display: block;
+                font-size: 14px;
+                font-weight: bold;
+                margin-bottom: 5px;
+                color: #444;
+            }
+
+            .input-group input {
+                width: 100%;
+                padding: 10px;
+                border: 1px solid #ccc;
+                border-radius: 8px;
+                font-size: 14px;
+            }
+
+        .reg-btn {
+            width: 100%;
+            padding: 12px;
+            background: #0ea5e9;
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+            .reg-btn:hover {
+                background: #0284c7;
+            }
+
+        .extra-links {
+            margin-top: 15px;
+        }
+
+            .extra-links a {
+                text-decoration: none;
+                color: #0ea5e9;
+                font-size: 14px;
+            }
+    </style>
+</head>
+<body>
+    <div class="reg-container">
+        <h2>Create Account</h2>
+        <form asp-route-retUrl="@Model.ReturnUrl" method="post">
+           @*  <div class="input-group">
+                <label>Full Name</label>
+                <input type="text" placeholder="Enter your name" required />
+            </div> *@
+            <div class="input-group">
+                <label>Email</label>
+                <input asp-for="Input.Email" type="email" placeholder="Enter your email" required />
+            </div>
+            <div class="input-group">
+                <label>Password</label>
+                <input asp-for="Input.Password" type="password" placeholder="Enter your password" required />
+            </div>
+            <div class="input-group">
+                <label>Confirm Password</label>
+                <input asp-for="Input.ConfirmPassword" type="password" placeholder="Confirm your password" required />
+            </div>
+            <button class="reg-btn">Register</button>
+        </form>
+        <div class="extra-links">
+            <a href="/Identity/Account/login">Already have an account? Login</a>
+        </div>
+    </div>
+</body>
+</html>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
