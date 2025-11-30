@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a27TvK7Fs38=",
+  "dgSpecHash": "kEeaHebtW3o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Downloads\\Attendance and Leave Management System\\Attendance and Leave Management System.csproj",
+  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Attendance and Leave Management System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -179,15 +179,5 @@
     "C:\\Users\\hp\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "C:\\Users\\hp\\Downloads\\Attendance and Leave Management System\\Attendance and Leave Management System.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\hp\\Downloads\\Attendance and Leave Management System\\Attendance and Leave Management System.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

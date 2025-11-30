@@ -1,0 +1,176 @@
+﻿:root {
+    --main-color: #4a90e2;
+    --accent-color: #e6f0ff;
+    --text-dark: #222;
+    --text-light: #555;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--text-dark);
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+}
+/* Sticky Footer */
+html, body {
+    height: 100%;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #fff;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+}
+
+.navbar-brand span {
+    color: var(--main-color);
+}
+
+.nav-link {
+    color: var(--text-dark) !important;
+}
+
+    .nav-link:hover {
+        color: var(--main-color) !important;
+    }
+
+.btn-main {
+    background-color: var(--main-color);
+    color: #fff;
+    border-radius: 25px;
+    padding: 10px 25px;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+    .btn-main:hover {
+        background-color: #357ABD;
+        color: #fff;
+    }
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(to right, #B4D5FB, #E6F0FF);
+    padding: 120px 0;
+    text-align: center;
+}
+
+    .hero h1 {
+        font-size: 3rem;
+        font-weight: 700;
+    }
+
+    .hero p {
+        font-size: 1.2rem;
+        margin: 15px 0 25px;
+        color: var(--text-dark);
+    }
+
+/* Features Section */
+.features {
+    padding: 80px 0;
+}
+
+.feature-card {
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    padding: 30px 20px;
+    transition: 0.3s;
+}
+
+    .feature-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 25px rgba(0,0,0,0.1);
+    }
+
+    .feature-card h4 {
+        font-weight: 600;
+        margin-bottom: 15px;
+    }
+
+/* Courses Section */
+.courses {
+    background-color: var(--accent-color);
+    padding: 80px 0;
+}
+
+.course-card {
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    transition: 0.3s;
+    background-color: #fff;
+}
+
+    .course-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+    }
+
+    .course-card img {
+        height: 200px;
+        object-fit: cover;
+        width: 100%;
+    }
+
+    .course-card h5 {
+        font-weight: 600;
+    }
+
+    .course-card p {
+        color: var(--text-light);
+        font-size: 0.95rem;
+    }
+
+    .course-card .rating i {
+        color: #ffc107;
+    }
+
+    .course-card .price {
+        font-weight: 700;
+        font-size: 1rem;
+    }
+
+        .course-card .price .old-price {
+            text-decoration: line-through;
+            color: #999;
+            margin-left: 5px;
+            font-weight: 500;
+        }
+
+/* Footer */
+footer {
+    background-color: #f5f9ff;
+    color: var(--text-dark);
+    padding: 40px 0;
+}
+
+    footer a {
+        color: var(--text-dark);
+        text-decoration: none;
+        transition: 0.3s;
+    }
+
+        footer a:hover {
+            color: var(--main-color);
+        }
+
+.btn-main {
+    background-color: var(--main-color);
+    color: #fff;
+    border-radius: 25px;
+    padding: 10px 25px;
+    font-weight: 600;
+}
+
+
+
+main.flex-fill {
+    flex: 1 0 auto; /* make main grow and push footer down */
+}
+
+footer {
+    flex-shrink: 0; /* footer never shrinks */
+}

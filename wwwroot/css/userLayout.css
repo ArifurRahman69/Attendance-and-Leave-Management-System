@@ -1,0 +1,88 @@
+﻿
+:root {
+    --main-color: #4a90e2;
+    --accent-color: #f5f9ff;
+    --text-dark: #222;
+    --text-light: #555;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8faff;
+    color: var(--text-dark);
+}
+
+.navbar {
+    background-color: #fff;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+}
+
+.navbar-brand span {
+    color: var(--main-color);
+}
+
+.btn-main {
+    background-color: var(--main-color);
+    color: #fff;
+    border-radius: 25px;
+    padding: 10px 25px;
+    font-weight: 600;
+}
+
+    .btn-main:hover {
+        background-color: #357ABD;
+    }
+
+.dashboard-hero {
+    padding: 40px 0;
+    text-align: center;
+}
+
+    .dashboard-hero h1 {
+        font-size: 2rem;
+        font-weight: 700;
+    }
+
+    .dashboard-hero p {
+        color: var(--text-light);
+        font-size: 1rem;
+        margin-top: 5px;
+    }
+
+.dashboard-card {
+    background: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    transition: 0.3s;
+}
+
+    .dashboard-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+    }
+
+    .dashboard-card h5 {
+        font-weight: 600;
+    }
+
+.progress {
+    height: 15px;
+    border-radius: 10px;
+}
+
+.progress-bar {
+    background-color: var(--main-color);
+}
+
+.course-progress {
+    font-size: 0.85rem;
+}
+
+.notification-card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px 20px;
+    margin-bottom: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+}

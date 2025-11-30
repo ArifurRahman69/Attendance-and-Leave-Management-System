@@ -11,10 +11,16 @@ namespace Attendance_and_Leave_Management_System.Data
         {
         }
 
-        public DbSet<UserInformation> UserInformations { get; set; }
-        public DbSet<EmployeeList> EmployeeLists { get; set; }
+        public DbSet<Employee> Employees { get; set; }
+        
         public DbSet<Designation> Designations { get; set; }
         public DbSet<Department> Departments { get; set; }
-        public DbSet<Address> Addresss { get; set; }
+        
+        public DbSet<Attendance> Attendances { get; set; }
+        public DbSet<Holiday> Holidays { get; set; }
+        public DbSet<Leave> Leaves { get; set; }
+        public DbSet<LeaveBalance> LeaveBalances { get; set; }
+        public DbSet<Shift> Shifts { get; set; }
+
     }
 }
