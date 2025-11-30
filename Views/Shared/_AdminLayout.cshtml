@@ -1,4 +1,4 @@
-﻿@* _AdminLayout.cshtml *@
+﻿@* _AdminLayout.cshtml updated navigation *@
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,10 +11,7 @@
     <title>@ViewData["Title"] - Admin</title>
 
     <link rel="icon" href="~/assets/images/favicon.ico" type="image/x-icon" />
-
-    <!-- Vendor CSS -->
     <link rel="stylesheet" href="~/assets/css/style.css" />
-
     @RenderSection("Styles", required: false)
 </head>
 <body>
@@ -29,49 +26,70 @@
     <nav class="pcoded-navbar">
         <div class="navbar-wrapper">
             <div class="navbar-content scroll-div">
-                <div class="">
-                    <div class="main-menu-header">
-                        <img class="img-radius" src="~/assets/images/user/avatar-2.jpg" alt="User-Profile-Image">
-                        <div class="user-details">
-                            <span>@User.Identity.Name</span>
-                            <div id="more-details">Admin<i class="fa fa-chevron-down m-l-5"></i></div>
-                        </div>
+                <div class="main-menu-header">
+                    <img class="img-radius" src="~/assets/images/user/avatar-2.jpg" alt="User-Profile-Image">
+                    <div class="user-details">
+                        <span>@User.Identity?.Name</span>
+                        <div id="more-details">Admin<i class="fa fa-chevron-down m-l-5"></i></div>
                     </div>
-                    <div class="collapse" id="nav-user-link">
-                        <ul class="list-unstyled">
-                            <li class="list-group-item">
-                                <a asp-controller="Account" asp-action="Profile"><i class="feather icon-user m-r-5"></i>View Profile</a>
-                            </li>
-                            <li class="list-group-item">
-                                <a asp-controller="Account" asp-action="Settings"><i class="feather icon-settings m-r-5"></i>Settings</a>
-                            </li>
-                            <li class="list-group-item">
-                                <form method="post" asp-controller="Account" asp-action="Logout">
-                                    <button type="submit" class="btn btn-link p-0"><i class="feather icon-log-out m-r-5"></i>Logout</button>
-                                </form>
-                            </li>
-                        </ul>
-                    </div>
+                </div>
+                <div class="collapse" id="nav-user-link">
+                    <ul class="list-unstyled">
+                        <li class="list-group-item"><a asp-controller="Account" asp-action="Profile"><i class="feather icon-user m-r-5"></i>Profile</a></li>
+                        <li class="list-group-item"><a asp-controller="Account" asp-action="Settings"><i class="feather icon-settings m-r-5"></i>Settings</a></li>
+                        <li class="list-group-item">
+                            <form method="post" asp-controller="Home" asp-action="Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                                <button type="submit" class="btn btn-link p-0"><i class="feather icon-log-out m-r-5"></i>Logout</button>
+                            </form>
+                        </li>
+                    </ul>
                 </div>
 
                 <ul class="nav pcoded-inner-navbar">
-                    <li class="nav-item pcoded-menu-caption"><label>Navigation</label></li>
+                    <li class="nav-item pcoded-menu-caption"><label>Dashboard</label></li>
                     <li class="nav-item">
-                        <a asp-controller="Admin" asp-action="Index"   class="nav-link">
+                        <a asp-controller="Admin" asp-action="Index" class="nav-link">
                             <span class="pcoded-micon"><i class="feather icon-home"></i></span>
                             <span class="pcoded-mtext">Dashboard</span>
                         </a>
                     </li>
 
-                    @* <li class="nav-item pcoded-menu-caption"><label>Settings</label></li> *@
+                    <li class="nav-item pcoded-menu-caption"><label>Employees</label></li>
                     <li class="nav-item pcoded-hasmenu">
-                        <a href="#!" class="nav-link"><span class="pcoded-micon"><i class="feather icon-layout"></i></span><span class="pcoded-mtext">HR</span></a>
+                        <a href="#" class="nav-link"><span class="pcoded-micon"><i class="feather icon-users"></i></span><span class="pcoded-mtext">Employees</span></a>
                         <ul class="pcoded-submenu">
-                            <li><a asp-controller="EmployeeManagement" asp-action="NewEmployee">New Employee</a></li>
-                            <li><a asp-controller="EmployeeManagement" asp-action="EmployeeList">Employee List</a></li>
+                            <li><a asp-controller="Admin" asp-action="CreateEmployee">Add Employee</a></li>
+                            <li><a asp-controller="Admin" asp-action="EmployeeList">Employee List</a></li>
                         </ul>
+                    </li>
 
-                    
+                    <li class="nav-item pcoded-menu-caption"><label>Organization</label></li>
+                    <li class="nav-item pcoded-hasmenu">
+                        <a href="#" class="nav-link"><span class="pcoded-micon"><i class="feather icon-layers"></i></span><span class="pcoded-mtext">Structure</span></a>
+                        <ul class="pcoded-submenu">
+                            <li><a asp-controller="Department" asp-action="Index">Departments</a></li>
+                            <li><a asp-controller="Designation" asp-action="Index">Designations</a></li>
+                            <li><a asp-controller="Holiday" asp-action="Index"><i class="feather icon-calendar"></i> Holidays</a></li>
+                            <li><a asp-controller="Shift" asp-action="Index"><i class="feather icon-clock"></i> Shifts</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item pcoded-menu-caption"><label>Attendance & Leave</label></li>
+                    <li class="nav-item pcoded-hasmenu">
+                        <a href="#" class="nav-link"><span class="pcoded-micon"><i class="feather icon-clock"></i></span><span class="pcoded-mtext">Attendance / Leave</span></a>
+                        <ul class="pcoded-submenu">
+                            <li><a asp-controller="Attendance" asp-action="Index">Attendance</a></li>
+                            <li><a asp-controller="Leave" asp-action="AdminList">Leave Approvals</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item pcoded-menu-caption"><label>Reports</label></li>
+                    <li class="nav-item pcoded-hasmenu">
+                        <a href="#" class="nav-link"><span class="pcoded-micon"><i class="feather icon-bar-chart-2"></i></span><span class="pcoded-mtext">Reports</span></a>
+                        <ul class="pcoded-submenu">
+                            <li><a asp-controller="Report" asp-action="MonthlyAttendance"><i class="feather icon-calendar"></i> Monthly Report</a></li>
+                            <li><a asp-controller="LeaveBalance" asp-action="Index"><i class="feather icon-briefcase"></i> Leave Balances</a></li>
+                        </ul>
                     </li>
                 </ul>
             </div>
@@ -89,45 +107,12 @@
             <a href="#!" class="mob-toggler"><i class="feather icon-more-vertical"></i></a>
         </div>
         <div class="collapse navbar-collapse">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item">
-                    <a href="#!" class="pop-search"><i class="feather icon-search"></i></a>
-                    <div class="search-bar">
-                        <input type="text" class="form-control border-0 shadow-none" placeholder="Search here">
-                        <button type="button" class="close" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    </div>
-                </li>
-            </ul>
+            <ul class="navbar-nav mr-auto"></ul>
             <ul class="navbar-nav ml-auto">
-                <li>
-                    <div class="dropdown">
-                        <a class="dropdown-toggle" href="#" data-toggle="dropdown">
-                            <i class="icon feather icon-bell"></i>
-                            <span class="badge badge-pill badge-danger">5</span>
-                        </a>
-                        <div class="dropdown-menu dropdown-menu-right notification">
-                            @* Notifications placeholder *@
-                        </div>
-                    </div>
-                </li>
-                <li>
-                    <div class="dropdown drp-user">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                            <i class="feather icon-user"></i>
-                        </a>
-                        <div class="dropdown-menu dropdown-menu-right profile-notification">
-                            <div class="pro-head">
-                                <img src="~/assets/images/user/avatar-1.jpg" class="img-radius" alt="User-Profile-Image">
-                                <span>@User.Identity.Name</span>
-                                <form method="post" asp-controller="Account" asp-action="Logout" class="d-inline">
-                                    <button type="submit" class="btn btn-link text-white p-0"><i class="feather icon-log-out"></i> Logout</button>
-                                </form>
-                            </div>
-                            <ul class="pro-body">
-                                <li><a asp-controller="Account" asp-action="Profile" class="dropdown-item"><i class="feather icon-user"></i> Profile</a></li>
-                            </ul>
-                        </div>
-                    </div>
+                <li class="nav-item">
+                    <form method="post" asp-controller="Home" asp-action="Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })" class="d-inline">
+                        <button type="submit" class="btn btn-sm btn-outline-light">Logout</button>
+                    </form>
                 </li>
             </ul>
         </div>

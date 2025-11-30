@@ -17,85 +17,185 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Attendance_and_Leave_Management_System
 build_property.RootNamespace = Attendance_and_Leave_Management_System
-build_property.ProjectDir = C:\Users\hp\OneDrive\Pictures\Virsity Project\Attendance and Leave Management System\
+build_property.ProjectDir = D:\proejct\momo\Attendance-and-Leave-Management-System\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hp\OneDrive\Pictures\Virsity Project\Attendance and Leave Management System
+build_property.MSBuildProjectDirectory = D:\proejct\momo\Attendance-and-Leave-Management-System
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Areas/Identity/Pages/Account/Login.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Areas/Identity/Pages/Account/Register.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Areas/Identity/Pages/_ViewImports.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Views/Admin/Index.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Admin/CreateEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Admin/EmployeeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRW1wbG95ZWVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Views/EmployeeManagement/EmployeeList.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Attendance/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Department/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Department/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Designation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Designation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Designation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Designation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/EmployeeManagement/EmployeeList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNYW5hZ2VtZW50XEVtcGxveWVlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Views/EmployeeManagement/NewEmployee.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/EmployeeManagement/NewEmployee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNYW5hZ2VtZW50XE5ld0VtcGxveWVlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Views/Home/Index.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Employee/EmployeeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRW1wbG95ZWVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Employee/NewEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcTmV3RW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Holiday/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9saWRheVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Holiday/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9saWRheVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Views/Home/Privacy.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Views/Shared/Error.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/LeaveBalance/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVCYWxhbmNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/LeaveBalance/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVCYWxhbmNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Leave/AdminList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVcQWRtaW5MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Leave/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Leave/MyLeaves.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVcTXlMZWF2ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Report/MonthlyAttendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XE1vbnRobHlBdHRlbmRhbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Views/Shared/_LoginPartial.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Views/_ViewImports.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Shift/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Shift/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Shift/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Views/_ViewStart.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Views/Shared/_AdminLayout.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-hke9uiy32s
 
-[C:/Users/hp/OneDrive/Pictures/Virsity Project/Attendance and Leave Management System/Views/Shared/_Layout.cshtml]
+[D:/proejct/momo/Attendance-and-Leave-Management-System/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q56o6iymjv

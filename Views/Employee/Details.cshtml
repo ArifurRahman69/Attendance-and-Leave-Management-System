@@ -1,0 +1,23 @@
+@model Attendance_and_Leave_Management_System.DataModel.Employee
+@{
+    ViewData["Title"] = "Employee Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2 class="mb-3">Employee Details</h2>
+<div class="card">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Name</dt>
+            <dd class="col-sm-9">@Model.FirstName @Model.LastName</dd>
+            <dt class="col-sm-3">Email</dt>
+            <dd class="col-sm-9">@Model.Email</dd>
+            <dt class="col-sm-3">Department</dt>
+            <dd class="col-sm-9">@Model.Department?.Name</dd>
+            <dt class="col-sm-3">Designation</dt>
+            <dd class="col-sm-9">@Model.Designation?.Name</dd>
+            <dt class="col-sm-3">Date Of Joining</dt>
+            <dd class="col-sm-9">@Model.DateOfJoining.ToShortDateString()</dd>
+        </dl>
+        <a asp-controller="Admin" asp-action="EmployeeList" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

@@ -1,0 +1,32 @@
+@model IEnumerable<dynamic>
+@{
+    ViewData["Title"] = "Leave Balances";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2 class="mb-3">Employees Leave Balances</h2>
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Employee</th>
+            <th>Balances</th>
+            <th style="width:120px">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Employee.FirstName @item.Employee.LastName (@item.Employee.Email)</td>
+            <td>
+                @foreach (var b in item.Balances)
+                {
+                    <div>@b.Description: @b.Balance</div>
+                }
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Employee.Id" class="btn btn-sm btn-primary">Edit</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

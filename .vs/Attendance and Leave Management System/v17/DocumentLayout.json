@@ -1,182 +1,257 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\",
+  "WorkspaceRootPath": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\views\\employeemanagement\\newemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\employeemanagement\\newemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\datamodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:datamodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\views\\employeemanagement\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\employeemanagement\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\controllers\\employeemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:controllers\\employeemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\datamodel\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:datamodel\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\datamodel\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:datamodel\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\datamodel\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:datamodel\\holiday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\migrations\\20251129100205_werty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:migrations\\20251129100205_werty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\admin\\createemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\admin\\createemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\datamodel\\leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:datamodel\\leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\viewmodel\\newemployeeregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:viewmodel\\newemployeeregistrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\datamodel\\leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:datamodel\\leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\datamodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:datamodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\migrations\\20251129094508_alsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:migrations\\20251129094508_alsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\viewmodel\\leavebalancevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:viewmodel\\leavebalancevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\viewmodel\\leavevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:viewmodel\\leavevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\viewmodel\\holidayvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:viewmodel\\holidayvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\viewmodel\\shiftvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:viewmodel\\shiftvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\viewmodel\\attendancevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:viewmodel\\attendancevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\viewmodel\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:viewmodel\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\viewmodel\\designationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:viewmodel\\designationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\viewmodel\\departmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:viewmodel\\departmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\datamodel\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:datamodel\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\datamodel\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:datamodel\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\migrations\\20251128191232_als.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:migrations\\20251128191232_als.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\attendance and leave management system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:attendance and leave management system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\views\\shared\\_adminlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\controllers\\holidaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:controllers\\holidaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\shift\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\shift\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\report\\monthlyattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\report\\monthlyattendance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Migrations\\20251130153150_akash-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251130153150_akash-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Migrations\\20251130152926_akash-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251130152926_akash-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\datamodel\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:datamodel\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\leave\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\leave\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Migrations\\20251130142731_akash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251130142731_akash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Migrations\\20251130142334_akash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251130142334_akash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|c:\\users\\hp\\onedrive\\pictures\\virsity project\\attendance and leave management system\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\admin\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\admin\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\viewmodel\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:viewmodel\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\employeemanagement\\newemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\employeemanagement\\newemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\leave\\myleaves.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\leave\\myleaves.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\leave\\adminlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\leave\\adminlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\designation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\designation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\designation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\designation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\designation\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\designation\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\designation\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\designation\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\services\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:services\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\holiday\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\holiday\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\holiday\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\holiday\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\controllers\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:controllers\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\shift\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\shift\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\shift\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\shift\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\controllers\\leavebalancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:controllers\\leavebalancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\leavebalance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\leavebalance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\leavebalance\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\leavebalance\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\viewmodel\\monthlyattendancereportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:viewmodel\\monthlyattendancereportitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\employee\\newemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\employee\\newemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|d:\\proejct\\momo\\attendance-and-leave-management-system\\views\\employee\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C6CAF03-0CE0-4E47-BB64-D71688E6DA37}|Attendance and Leave Management System.csproj|solutionrelative:views\\employee\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Akash\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\311556913\\EmployeeManagementController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -186,544 +261,824 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeList.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\EmployeeManagement\\EmployeeList.cshtml",
-              "RelativeDocumentMoniker": "Views\\EmployeeManagement\\EmployeeList.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\EmployeeManagement\\EmployeeList.cshtml",
-              "RelativeToolTip": "Views\\EmployeeManagement\\EmployeeList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T06:44:45.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T19:07:05.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Employee.cs",
-              "RelativeDocumentMoniker": "DataModel\\Employee.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Employee.cs",
-              "RelativeToolTip": "DataModel\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 62,
+              "Title": "EmployeeManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Akash\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\311556913\\EmployeeManagementController.cs",
+              "ToolTip": "C:\\Users\\Akash\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\311556913\\EmployeeManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T18:32:52.412Z",
+              "WhenOpened": "2025-11-30T17:04:32.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "EmployeeList.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Employee\\EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\EmployeeList.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Employee\\EmployeeList.cshtml",
+              "RelativeToolTip": "Views\\Employee\\EmployeeList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T17:04:22.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "NewEmployee.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Employee\\NewEmployee.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\NewEmployee.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Employee\\NewEmployee.cshtml",
+              "RelativeToolTip": "Views\\Employee\\NewEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T17:04:09.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Title": "NewEmployeeRegistrationViewModel.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\ViewModel\\NewEmployeeRegistrationViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\NewEmployeeRegistrationViewModel.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\ViewModel\\NewEmployeeRegistrationViewModel.cs",
+              "RelativeToolTip": "ViewModel\\NewEmployeeRegistrationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T07:34:12.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T07:37:56.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T06:36:19.865Z",
+              "WhenOpened": "2025-11-30T14:13:05.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NewEmployee.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\EmployeeManagement\\NewEmployee.cshtml",
-              "RelativeDocumentMoniker": "Views\\EmployeeManagement\\NewEmployee.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\EmployeeManagement\\NewEmployee.cshtml",
-              "RelativeToolTip": "Views\\EmployeeManagement\\NewEmployee.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T06:36:00.326Z",
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:09:55.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:21:37.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwH0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:16:29.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\DataModel\\Employee.cs",
+              "RelativeDocumentMoniker": "DataModel\\Employee.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\DataModel\\Employee.cs",
+              "RelativeToolTip": "DataModel\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T08:48:35.559Z",
+              "WhenOpened": "2025-11-30T15:15:42.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:26:12.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:53:37.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T16:53:57.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EmployeeManagementController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Controllers\\EmployeeManagementController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeManagementController.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Controllers\\EmployeeManagementController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeManagementController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T06:25:16.465Z",
+              "WhenOpened": "2025-11-30T14:17:04.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEmployee.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Admin\\CreateEmployee.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\CreateEmployee.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Admin\\CreateEmployee.cshtml",
+              "RelativeToolTip": "Views\\Admin\\CreateEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:19:15.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:31:36.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Holiday.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Holiday.cs",
-              "RelativeDocumentMoniker": "DataModel\\Holiday.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Holiday.cs",
-              "RelativeToolTip": "DataModel\\Holiday.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T09:17:47.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Shift.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Shift.cs",
-              "RelativeDocumentMoniker": "DataModel\\Shift.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Shift.cs",
-              "RelativeToolTip": "DataModel\\Shift.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T09:10:07.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Attendance.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Attendance.cs",
-              "RelativeDocumentMoniker": "DataModel\\Attendance.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Attendance.cs",
-              "RelativeToolTip": "DataModel\\Attendance.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T08:59:15.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Leave.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Leave.cs",
-              "RelativeDocumentMoniker": "DataModel\\Leave.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Leave.cs",
-              "RelativeToolTip": "DataModel\\Leave.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T09:02:53.523Z"
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:44:19.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "20251129100205_werty.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Migrations\\20251129100205_werty.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251129100205_werty.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Migrations\\20251129100205_werty.cs",
-              "RelativeToolTip": "Migrations\\20251129100205_werty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "HolidayController.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\HolidayController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HolidayController.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\HolidayController.cs",
+              "RelativeToolTip": "Controllers\\HolidayController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T10:02:06.472Z"
+              "WhenOpened": "2025-11-30T15:23:16.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "LeaveBalance.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\LeaveBalance.cs",
-              "RelativeDocumentMoniker": "DataModel\\LeaveBalance.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\LeaveBalance.cs",
-              "RelativeToolTip": "DataModel\\LeaveBalance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T09:32:10.887Z"
+              "Title": "MonthlyAttendance.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Report\\MonthlyAttendance.cshtml",
+              "RelativeDocumentMoniker": "Views\\Report\\MonthlyAttendance.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Report\\MonthlyAttendance.cshtml",
+              "RelativeToolTip": "Views\\Report\\MonthlyAttendance.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:39:19.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "20251129094508_alsd.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Migrations\\20251129094508_alsd.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251129094508_alsd.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Migrations\\20251129094508_alsd.cs",
-              "RelativeToolTip": "Migrations\\20251129094508_alsd.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Title": "20251130153150_akash-1.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Migrations\\20251130153150_akash-1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251130153150_akash-1.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Migrations\\20251130153150_akash-1.cs",
+              "RelativeToolTip": "Migrations\\20251130153150_akash-1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T09:45:09.539Z"
+              "WhenOpened": "2025-11-30T15:31:51.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LeaveBalanceVM.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\LeaveBalanceVM.cs",
-              "RelativeDocumentMoniker": "ViewModel\\LeaveBalanceVM.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\LeaveBalanceVM.cs",
-              "RelativeToolTip": "ViewModel\\LeaveBalanceVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Shift\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shift\\Create.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Shift\\Create.cshtml",
+              "RelativeToolTip": "Views\\Shift\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:36:03.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Shift\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shift\\Edit.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Shift\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Shift\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:36:14.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LeaveBalanceController.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\LeaveBalanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveBalanceController.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\LeaveBalanceController.cs",
+              "RelativeToolTip": "Controllers\\LeaveBalanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T09:37:26.35Z"
+              "WhenOpened": "2025-11-30T15:37:27.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\LeaveBalance\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\LeaveBalance\\Index.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\LeaveBalance\\Index.cshtml",
+              "RelativeToolTip": "Views\\LeaveBalance\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:37:38.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\LeaveBalance\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\LeaveBalance\\Edit.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\LeaveBalance\\Edit.cshtml",
+              "RelativeToolTip": "Views\\LeaveBalance\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:37:49.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MonthlyAttendanceReportItem.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\ViewModel\\MonthlyAttendanceReportItem.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MonthlyAttendanceReportItem.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\ViewModel\\MonthlyAttendanceReportItem.cs",
+              "RelativeToolTip": "ViewModel\\MonthlyAttendanceReportItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:38:48.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:39:02.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Shift\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shift\\Index.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Shift\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shift\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAIBJwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:35:52.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ShiftController.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\ShiftController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShiftController.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\ShiftController.cs",
+              "RelativeToolTip": "Controllers\\ShiftController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:35:25.307Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "LeaveVM.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\LeaveVM.cs",
-              "RelativeDocumentMoniker": "ViewModel\\LeaveVM.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\LeaveVM.cs",
-              "RelativeToolTip": "ViewModel\\LeaveVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "20251130152926_akash-2.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Migrations\\20251130152926_akash-2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251130152926_akash-2.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Migrations\\20251130152926_akash-2.cs",
+              "RelativeToolTip": "Migrations\\20251130152926_akash-2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T09:08:10.125Z"
+              "WhenOpened": "2025-11-30T15:29:26.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HolidayVM.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\HolidayVM.cs",
-              "RelativeDocumentMoniker": "ViewModel\\HolidayVM.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\HolidayVM.cs",
-              "RelativeToolTip": "ViewModel\\HolidayVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T09:23:02.986Z"
+              "DocumentIndex": 51,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Holiday\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Holiday\\Create.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Holiday\\Create.cshtml",
+              "RelativeToolTip": "Views\\Holiday\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:23:38.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Holiday\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Holiday\\Index.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Holiday\\Index.cshtml",
+              "RelativeToolTip": "Views\\Holiday\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:23:28.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "ShiftVM.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\ShiftVM.cs",
-              "RelativeDocumentMoniker": "ViewModel\\ShiftVM.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\ShiftVM.cs",
-              "RelativeToolTip": "ViewModel\\ShiftVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Services\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "Services\\AttendanceService.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Services\\AttendanceService.cs",
+              "RelativeToolTip": "Services\\AttendanceService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T09:12:52.569Z"
+              "WhenOpened": "2025-11-30T15:17:06.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AttendanceVM.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\AttendanceVM.cs",
-              "RelativeDocumentMoniker": "ViewModel\\AttendanceVM.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\AttendanceVM.cs",
-              "RelativeToolTip": "ViewModel\\AttendanceVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 49,
+              "Title": "LeaveService.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Services\\LeaveService.cs",
+              "RelativeDocumentMoniker": "Services\\LeaveService.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Services\\LeaveService.cs",
+              "RelativeToolTip": "Services\\LeaveService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T09:00:10.665Z"
+              "WhenOpened": "2025-11-30T15:14:40.93Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DepartmentVM.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\DepartmentVM.cs",
-              "RelativeDocumentMoniker": "ViewModel\\DepartmentVM.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\DepartmentVM.cs",
-              "RelativeToolTip": "ViewModel\\DepartmentVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T18:19:21.878Z"
+              "DocumentIndex": 48,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:10:07.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DesignationVM.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\DesignationVM.cs",
-              "RelativeDocumentMoniker": "ViewModel\\DesignationVM.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\DesignationVM.cs",
-              "RelativeToolTip": "ViewModel\\DesignationVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T18:17:40.525Z"
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Designation\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Designation\\Delete.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Designation\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Designation\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:00:57.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Designation\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Designation\\Edit.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Designation\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Designation\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:00:49.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Designation\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Designation\\Create.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Designation\\Create.cshtml",
+              "RelativeToolTip": "Views\\Designation\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:00:39.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Designation\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Designation\\Index.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Designation\\Index.cshtml",
+              "RelativeToolTip": "Views\\Designation\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:00:30.668Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "EmployeeVM.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\EmployeeVM.cs",
-              "RelativeDocumentMoniker": "ViewModel\\EmployeeVM.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ViewModel\\EmployeeVM.cs",
-              "RelativeToolTip": "ViewModel\\EmployeeVM.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Title": "DesignationController.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\DesignationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DesignationController.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\DesignationController.cs",
+              "RelativeToolTip": "Controllers\\DesignationController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T18:43:18.526Z"
+              "WhenOpened": "2025-11-30T15:00:21.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LeaveController.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\LeaveController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveController.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\LeaveController.cs",
+              "RelativeToolTip": "Controllers\\LeaveController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:57:37.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwv3EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:52:09.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\DataModel\\Attendance.cs",
+              "RelativeDocumentMoniker": "DataModel\\Attendance.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\DataModel\\Attendance.cs",
+              "RelativeToolTip": "DataModel\\Attendance.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:52:00.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Attendance\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Attendance\\Index.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Attendance\\Index.cshtml",
+              "RelativeToolTip": "Views\\Attendance\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:47:15.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AdminList.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Leave\\AdminList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Leave\\AdminList.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Leave\\AdminList.cshtml",
+              "RelativeToolTip": "Views\\Leave\\AdminList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:40:48.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MyLeaves.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Leave\\MyLeaves.cshtml",
+              "RelativeDocumentMoniker": "Views\\Leave\\MyLeaves.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Leave\\MyLeaves.cshtml",
+              "RelativeToolTip": "Views\\Leave\\MyLeaves.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:40:31.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Designation.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Designation.cs",
-              "RelativeDocumentMoniker": "DataModel\\Designation.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Designation.cs",
-              "RelativeToolTip": "DataModel\\Designation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T18:14:02.856Z"
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Leave\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Leave\\Create.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Leave\\Create.cshtml",
+              "RelativeToolTip": "Views\\Leave\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:40:15.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Department.cs",
-              "RelativeDocumentMoniker": "DataModel\\Department.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\DataModel\\Department.cs",
-              "RelativeToolTip": "DataModel\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T18:18:30.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20251128191232_als.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Migrations\\20251128191232_als.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251128191232_als.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Migrations\\20251128191232_als.cs",
-              "RelativeToolTip": "Migrations\\20251128191232_als.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T19:12:33.345Z"
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\Delete.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Department\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:40:01.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAACsBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\Edit.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Department\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:39:40.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\Create.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:39:11.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:38:43.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T19:00:59.727Z"
+              "WhenOpened": "2025-11-30T14:30:38.715Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T07:32:11.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T19:04:48.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAF8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T08:35:11.764Z"
+              "WhenOpened": "2025-11-30T14:30:12.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "Title": "20251130142731_akash.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Migrations\\20251130142731_akash.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251130142731_akash.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Migrations\\20251130142731_akash.cs",
+              "RelativeToolTip": "Migrations\\20251130142731_akash.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T19:05:13.031Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:27:31.357Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "Attendance and Leave Management System.csproj",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Attendance and Leave Management System.csproj",
-              "RelativeDocumentMoniker": "Attendance and Leave Management System.csproj",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Attendance and Leave Management System.csproj",
-              "RelativeToolTip": "Attendance and Leave Management System.csproj",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-26T17:49:13.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_AdminLayout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\Shared\\_AdminLayout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml.css",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\Shared\\_AdminLayout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-23T08:18:58.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T19:11:20.869Z"
+              "Title": "20251130142334_akash.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Migrations\\20251130142334_akash.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251130142334_akash.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Migrations\\20251130142334_akash.cs",
+              "RelativeToolTip": "Migrations\\20251130142334_akash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:23:34.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T14:21:51.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T09:42:04.502Z"
+              "WhenOpened": "2025-11-30T14:21:48.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\DbSeeder.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "Data\\DbSeeder.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAApwFAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:20:12.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmployeeList.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Admin\\EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EmployeeList.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Admin\\EmployeeList.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EmployeeList.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAewDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:19:48.04Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T19:11:08.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T19:11:11.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T19:11:10.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T19:06:44.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-22T19:06:41.845Z"
+              "WhenOpened": "2025-11-30T14:18:16.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABrAAAAAAAAAA==",
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T18:54:08.38Z"
+              "WhenOpened": "2025-11-30T14:17:49.037Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "DocumentIndex": 37,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmployeeService.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:15:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AdminDashboardViewModel.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\ViewModel\\AdminDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\AdminDashboardViewModel.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\ViewModel\\AdminDashboardViewModel.cs",
+              "RelativeToolTip": "ViewModel\\AdminDashboardViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-11-22T08:34:53.764Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:12:37.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Pictures\\Virsity Project\\Attendance and Leave Management System\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-22T08:31:53.709Z"
+              "DocumentIndex": 39,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\UserViewModel.cs",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "ViewModel\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:10:55.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NewEmployee.cshtml",
+              "DocumentMoniker": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\EmployeeManagement\\NewEmployee.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmployeeManagement\\NewEmployee.cshtml",
+              "ToolTip": "D:\\proejct\\momo\\Attendance-and-Leave-Management-System\\Views\\EmployeeManagement\\NewEmployee.cshtml",
+              "RelativeToolTip": "Views\\EmployeeManagement\\NewEmployee.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T14:09:49.831Z",
+              "EditorCaption": ""
             }
           ]
         }

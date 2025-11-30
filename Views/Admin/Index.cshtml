@@ -1,8 +1,62 @@
-﻿
+﻿@model Attendance_and_Leave_Management_System.ViewModel.AdminDashboardViewModel
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Admin Dashboard";
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
-<h1>Welcome to ALS</h1>
+<div class="container py-4">
+    <h2 class="mb-4">Admin Dashboard</h2>
+
+    <div class="row g-4 mb-4">
+        <div class="col-md-4">
+            <div class="card text-white bg-primary shadow-sm h-100">
+                <div class="card-body d-flex flex-column justify-content-center">
+                    <h5 class="card-title">Total Employees</h5>
+                    <p class="display-6 fw-bold mb-0">@Model.TotalEmployees</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-success shadow-sm h-100">
+                <div class="card-body d-flex flex-column justify-content-center">
+                    <h5 class="card-title">Present Today</h5>
+                    <p class="display-6 fw-bold mb-0">@Model.EmployeesPresentToday</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-dark bg-warning shadow-sm h-100">
+                <div class="card-body d-flex flex-column justify-content-center">
+                    <h5 class="card-title">Pending Leaves</h5>
+                    <p class="display-6 fw-bold mb-0">@Model.PendingLeaveRequests</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card shadow-sm mb-4">
+        <div class="card-header bg-light">
+            <h5 class="mb-0">Quick Actions</h5>
+        </div>
+        <div class="card-body">
+            <div class="row gy-3">
+                <div class="col-md-4">
+                    <a asp-controller="Admin" asp-action="CreateEmployee" class="btn btn-outline-primary w-100 py-3">
+                        Add Employee
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a asp-controller="Department" asp-action="Index" class="btn btn-outline-secondary w-100 py-3">
+                        Manage Departments
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a asp-controller="Leave" asp-action="AdminList" class="btn btn-outline-warning w-100 py-3">
+                        Leave Approvals
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 

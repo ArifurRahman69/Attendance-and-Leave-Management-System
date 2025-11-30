@@ -1,0 +1,39 @@
+@model IEnumerable<Attendance_and_Leave_Management_System.DataModel.Holiday>
+@{
+    ViewData["Title"] = "Holidays";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2 class="mb-3">Holidays</h2>
+@if (TempData["HolidayMessage"] is string msg)
+{
+    <div class="alert alert-success">@msg</div>
+}
+<a asp-action="Create" class="btn btn-primary mb-3">Add Holiday</a>
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Name</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Description</th>
+            <th style="width:160px">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.StartDate.ToShortDateString()</td>
+                <td>@item.EndDate.ToShortDateString()</td>
+                <td>@item.Description</td>
+                <td>
+                    <div class="btn-group">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

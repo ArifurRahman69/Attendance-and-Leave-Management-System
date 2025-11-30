@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Attendance and Leave Management System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdaaedc6f5b7d030efaaee24ae6d6f4ed4b2127a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5511bb6c606ca440f48dc0a2404f00b2f0a46b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Attendance and Leave Management System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Attendance and Leave Management System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

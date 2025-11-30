@@ -1,0 +1,62 @@
+@model Attendance_and_Leave_Management_System.DataModel.Shift
+@{
+    ViewData["Title"] = "Create Shift";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2 class="mb-3">Create Shift</h2>
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="row">
+        <div class="col-md-4 mb-3">
+            <label asp-for="StartTime" class="form-label"></label>
+            <input asp-for="StartTime" type="time" class="form-control" />
+            <span asp-validation-for="StartTime" class="text-danger"></span>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label asp-for="EndTime" class="form-label"></label>
+            <input asp-for="EndTime" type="time" class="form-control" />
+            <span asp-validation-for="EndTime" class="text-danger"></span>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label asp-for="WorkHour" class="form-label"></label>
+            <input asp-for="WorkHour" class="form-control" />
+            <span asp-validation-for="WorkHour" class="text-danger"></span>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+@section Scripts { 
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        (function() {
+            function calcHours() {
+                const startEl = document.getElementById('StartTime');
+                const endEl = document.getElementById('EndTime');
+                const workEl = document.getElementById('WorkHour');
+                if (!startEl || !endEl || !workEl) return;
+                const startVal = startEl.value;
+                const endVal = endEl.value;
+                if (!startVal || !endVal) return;
+                // Parse HH:MM
+                const [sh, sm] = startVal.split(':').map(Number);
+                const [eh, em] = endVal.split(':').map(Number);
+                let startMinutes = sh * 60 + sm;
+                let endMinutes = eh * 60 + em;
+                // Handle overnight shift (end next day)
+                if (endMinutes < startMinutes) {
+                    endMinutes += 24 * 60;
+                }
+                const diffMinutes = endMinutes - startMinutes;
+                const hours = (diffMinutes / 60).toFixed(2);
+                workEl.value = hours;
+            }
+            document.getElementById('StartTime')?.addEventListener('change', calcHours);
+            document.getElementById('EndTime')?.addEventListener('change', calcHours);
+        })();
+    </script>
+}

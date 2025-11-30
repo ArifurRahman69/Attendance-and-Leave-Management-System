@@ -1,0 +1,42 @@
+@model IEnumerable<Attendance_and_Leave_Management_System.DataModel.LeaveRequest>
+@{
+    ViewData["Title"] = "Pending Leave Requests";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2 class="mb-3">Pending Leave Requests</h2>
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Employee Id</th>
+            <th>Type</th>
+            <th>Start</th>
+            <th>End</th>
+            <th>Reason</th>
+            <th>Requested</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.EmployeeId</td>
+                <td>@item.LeaveType</td>
+                <td>@item.StartDate.ToShortDateString()</td>
+                <td>@item.EndDate.ToShortDateString()</td>
+                <td>@item.Reason</td>
+                <td>@item.RequestDate.ToShortDateString()</td>
+                <td>
+                    <form asp-action="Approve" method="post" class="d-inline">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-sm btn-success">Approve</button>
+                    </form>
+                    <form asp-action="Reject" method="post" class="d-inline">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-sm btn-danger">Reject</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

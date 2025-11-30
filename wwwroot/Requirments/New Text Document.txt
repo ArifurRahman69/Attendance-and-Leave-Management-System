@@ -1,0 +1,22 @@
+Project Requirements & Analysis
+1. User Roles (Identity Framework)
+Admin: Full access, manage employees, departments, designations.
+Manager: Approve/Reject leave requests, view team attendance.
+Employee: Mark attendance (In/Out), apply for leave, view history.
+2. Functional Modules
+Authentication: Login, Register, Logout (using ASP.NET Core Identity).
+Organization: Manage Departments and Designations.
+Employee Management: Employee profiles linked to Identity Users.
+Attendance:
+Clock In / Clock Out.
+Prevent double clock-in.
+Calculate working hours.
+Leave Management:
+Leave Types (Sick, Casual, Annual).
+Request Leave.
+Workflow: Pending -> Approved/Rejected.
+3. Architecture (N-Layer)
+Domain Layer: Entities and Enums.
+Data Layer: DbContext, Migrations, Repositories.
+Service Layer: Business Logic (Interfaces & Implementation).
+Presentation Layer: MVC Controllers and Views.

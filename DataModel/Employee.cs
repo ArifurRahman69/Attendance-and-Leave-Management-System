@@ -1,28 +1,48 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Attendance_and_Leave_Management_System.DataModel
 {
     public class Employee
     {
-
         [Key]
-        public int EmployeeId { get; set; }
+        public int Id { get; set; }
+
+        // Business serial for employees (auto-generated on create)
+        public int EmployeeID { get; set; }
+
+        [Required]
+        public string IdentityUserId { get; set; } = string.Empty; // FK to AspNetUsers (ApplicationUser)
+
+        [Required]
+        [MaxLength(100)]
         public string FirstName { get; set; } = string.Empty;
+
+        [Required]
+        [MaxLength(100)]
         public string LastName { get; set; } = string.Empty;
-        public string UserName { get; set; } = string.Empty;
 
-        public string Email { get; set; } = null!;
-        public string Password { get; set; }= string.Empty;
+        [Required]
+        [EmailAddress]
+        public string Email { get; set; } = string.Empty;
 
-        public string? PhoneNumber { get; set; }
-        public String? Address { get; set; }
+        public DateTime DateOfJoining { get; set; }
 
-        public DateTime JoiningDate { get; set; }
-        public string BloodGroup { get; set; } = string.Empty;
-        public string Department {  get; set; } = string.Empty;
-        public string Designation { get; set; } = string.Empty;
-        public DateTime CreatedAt { get; set; } = DateTime.Now;
+        // Foreign Keys
+        [ForeignKey(nameof(Department))]
+        public int DepartmentId { get; set; }
 
-        public DateTime? UpdateAt { get; set; }
+        [ForeignKey(nameof(Designation))]
+        public int DesignationId { get; set; }
+
+        [ForeignKey("Shift")]
+        public int ShiftId { get; set; }
+
+        // Navigation properties
+        public ApplicationUser? ApplicationUser { get; set; }
+        public Department? Department { get; set; }
+        public Designation? Designation { get; set; }
+        public Shift? Shift { get; set; }
     }
 }

@@ -1,0 +1,41 @@
+@model IEnumerable<Attendance_and_Leave_Management_System.DataModel.Shift>
+@{
+    ViewData["Title"] = "Shifts";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2 class="mb-3">Shifts</h2>
+@if (TempData["ShiftMessage"] is string msg)
+{
+    <div class="alert alert-success">@msg</div>
+}
+<a asp-action="Create" class="btn btn-primary mb-3">Add Shift</a>
+<div class="table-responsive">
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Name</th>
+                <th>Start Time</th>
+                <th>End Time</th>
+                <th>Work Hour</th>
+                <th style="width:160px">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.StartTime</td>
+                <td>@item.EndTime</td>
+                <td>@item.WorkHour</td>
+                <td>
+                    <div class="btn-group">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                    </div>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

@@ -250,6 +250,7 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\Requirments\New Text Document.txt
 wwwroot\Uploads\019846ac-8b5b-4741-991c-f60bb32ea00c.jpeg
 wwwroot\Uploads\460dfde6-45fd-4136-baf3-d32ea5b3abd7.jpeg
 wwwroot\Uploads\57fe96da-0c57-46c8-8f3e-e4d7e613d2cf.jpeg

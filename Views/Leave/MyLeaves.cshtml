@@ -1,0 +1,30 @@
+@model IEnumerable<Attendance_and_Leave_Management_System.ViewModel.LeaveVM>
+@{
+    ViewData["Title"] = "My Leaves";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2 class="mb-3">My Leave Requests</h2>
+<a asp-action="Create" class="btn btn-primary mb-3">New Leave Request</a>
+<table class="table table-striped table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Type</th>
+            <th>From</th>
+            <th>To</th>
+            <th>Days</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.LeaveType</td>
+                <td>@item.LeaveFrom</td>
+                <td>@item.LeaveTo</td>
+                <td>@item.LeaveDuration</td>
+                <td>@item.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>

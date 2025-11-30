@@ -1,0 +1,57 @@
+@model IEnumerable<Attendance_and_Leave_Management_System.ViewModel.MonthlyAttendanceReportItem>
+@{
+    ViewData["Title"] = "Monthly Attendance Report";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    var selectedMonth = System.DateTime.UtcNow.Month;
+    var selectedYear = System.DateTime.UtcNow.Year;
+    var years = Enumerable.Range(System.DateTime.UtcNow.Year - 5, 10).ToList();
+}
+<h2 class="mb-3">Monthly Attendance Report</h2>
+<form method="get" class="row g-3 mb-3">
+    <div class="col-md-3">
+        <label class="form-label">Month</label>
+        <select name="month" class="form-select">
+            @for (int i = 1; i <= 12; i++)
+            {
+                var isSelected = i == selectedMonth;
+                <option value="@i" selected="@(isSelected ? "selected" : null)">@System.Globalization.CultureInfo.CurrentCulture.DateTimeFormat.GetMonthName(i)</option>
+            }
+        </select>
+    </div>
+    <div class="col-md-3">
+        <label class="form-label">Year</label>
+        <select name="year" class="form-select">
+            @foreach (var yr in years)
+            {
+                var isSelected = yr == selectedYear;
+                <option value="@yr" selected="@(isSelected ? "selected" : null)">@yr</option>
+            }
+        </select>
+    </div>
+    <div class="col-md-3 align-self-end">
+        <button type="submit" class="btn btn-primary">Filter</button>
+    </div>
+</form>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Employee Name</th>
+            <th>Presents</th>
+            <th>Absents</th>
+            <th>Lates</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        var highAbsenteeism = item.TotalAbsentDays >= 5; // threshold, adjust as needed
+        <tr class="@(highAbsenteeism ? "table-danger" : null)">
+            <td>@item.EmployeeName</td>
+            <td>@item.TotalPresentDays</td>
+            <td>@item.TotalAbsentDays</td>
+            <td>@item.TotalLateDays</td>
+        </tr>
+    }
+    </tbody>
+</table>

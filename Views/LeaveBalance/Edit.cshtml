@@ -1,0 +1,33 @@
+@model IEnumerable<Attendance_and_Leave_Management_System.DataModel.LeaveBalance>
+@{
+    ViewData["Title"] = "Edit Leave Balances";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    var employee = ViewBag.Employee as Attendance_and_Leave_Management_System.DataModel.Employee;
+}
+<h2 class="mb-3">Edit Leave Balances - @employee?.FirstName @employee?.LastName</h2>
+<form asp-action="Edit" method="post">
+    <input type="hidden" name="id" value="@employee?.Id" />
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Description</th>
+                <th>Balance</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var b in Model)
+        {
+            <tr>
+                <td>@b.Description</td>
+                <td>
+                    <input type="number" name="Balance" value="@b.Balance" class="form-control" />
+                    <input type="hidden" name="Id" value="@b.Id" />
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+@section Scripts { <partial name="_ValidationScriptsPartial" /> }
